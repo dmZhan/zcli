@@ -8,6 +8,10 @@
 
 wip and i have so much work todo.
 
+参数： 
+
+命令： zcli rsym 「  」
+
 ## License
 
 [MIT](./LICENSE) License © 2022 [DogMan Zhan](https://github.com/dmZhan)
